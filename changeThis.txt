@@ -1,1 +1,3 @@
 I have changed the text.
+
+I'm going to make a change and deal with the merge conflict
